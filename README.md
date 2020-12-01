@@ -1,3 +1,11 @@
-# Helloworld
-just for try
-wang ya ning hahahahahah
+# Component-ING
+
+A project for practicing learning 
+
+* npm
+
+* commonJS
+
+* loadsh
+
+  
